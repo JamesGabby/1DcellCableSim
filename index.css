@@ -1,0 +1,57 @@
+.main {
+    text-align: center;
+    padding-top: 0%;
+}
+
+input[type=text], select {
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.button {
+    background-color: #801d9e; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+#display {
+    text-align: center;
+    font-size: 35px;
+}
+
+header {
+    text-align: center;
+    background: rgb(116, 76, 76);
+    color: white;
+    font-size: 25px;
+    border: 2px solid #1abc9c;
+}
+
+main {
+    text-align: center;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.div {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
